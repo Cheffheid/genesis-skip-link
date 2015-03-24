@@ -39,3 +39,4 @@
         wp_enqueue_script( 'theme_skiplink-fix' );
     }
     add_action( 'wp_enqueue_scripts', 'theme_fix_skiplink' );
+
